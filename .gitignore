@@ -4,4 +4,4 @@
 
 # If there are more files then we have to use regular expression
 *.log
-abc/
+# abc/
