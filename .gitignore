@@ -1,0 +1,7 @@
+# To ignore particular file
+# errors.log
+# request.log 
+
+# If there are more files then we have to use regular expression
+*.log
+abc/
